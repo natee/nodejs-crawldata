@@ -1,0 +1,23 @@
+{
+  "name": "demo1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nodejs",
+    "crawl",
+    "data"
+  ],
+  "author": "zhaoke",
+  "license": "ISC",
+  "dependencies": {
+    "cheerio": "^0.19.0",
+    "json2csv": "^2.4.3",
+    "observe.js": "^0.1.1",
+    "querystring": "^0.2.0",
+    "superagent": "^1.2.0"
+  }
+}
