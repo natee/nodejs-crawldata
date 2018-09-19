@@ -18,6 +18,6 @@
     "json2csv": "^2.4.3",
     "observe.js": "^0.1.1",
     "querystring": "^0.2.0",
-    "superagent": "^1.2.0"
+    "superagent": "^3.7.0"
   }
 }
